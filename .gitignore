@@ -16,6 +16,9 @@ npm-debug.log*
 *.iws
 *.ipr
 
+# Build output
+out/
+
 # OS
 .DS_Store
 Thumbs.db
