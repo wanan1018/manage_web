@@ -1,3 +1,10 @@
+/**
+ * @project   task-management-system
+ * @module    frontend
+ * @author    wanan1018
+ * @github    https://github.com/wanan1018/manage_web
+ * @date      2026-05-17
+ */
 export function formatDate(date: string | number | Date, fmt = 'YYYY-MM-DD HH:mm:ss') {
   const d = new Date(date)
   const o: Record<string, number> = {

@@ -1,3 +1,10 @@
+/**
+ * @project   task-management-system
+ * @module    frontend
+ * @author    wanan1018
+ * @github    https://github.com/wanan1018/manage_web
+ * @date      2026-05-17
+ */
 <template>
   <el-card class="task-card" shadow="hover">
     <h3>{{ task.title }}</h3>

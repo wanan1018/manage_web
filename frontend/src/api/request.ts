@@ -1,3 +1,10 @@
+/**
+ * @project   task-management-system
+ * @module    frontend
+ * @author    wanan1018
+ * @github    https://github.com/wanan1018/manage_web
+ * @date      2026-05-17
+ */
 import axios from 'axios'
 import { ElMessage } from 'element-plus'
 import { useUserStore } from '../store/user'

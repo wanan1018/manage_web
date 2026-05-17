@@ -1,3 +1,10 @@
+/**
+ * @project   task-management-system
+ * @module    frontend
+ * @author    wanan1018
+ * @github    https://github.com/wanan1018/manage_web
+ * @date      2026-05-17
+ */
 <template>
   <el-card>
     <h3>最新通知</h3>
