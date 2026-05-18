@@ -1,10 +1,10 @@
-## =================================================================
-##  @project   task-management-system
-##  @author    wanan1018
-##  @github    https://github.com/wanan1018/manage_web
-##  @date      2026-05-17
-##  @file      application.yml
-## =================================================================
+# =================================================================
+#  @project   task-management-system
+#  @author    wanan1018
+#  @github    https://github.com/wanan1018/manage_web
+#  @date      2026-05-17
+#  @file      application.yml
+# =================================================================
 spring:
   profiles:
     active: mysql
